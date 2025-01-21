@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"e2476d9394ced517","type":"text","text":"# raster image\n","x":-622,"y":-366,"width":250,"height":60},
+		{"id":"c1c939ce837019a8","type":"text","text":"Made out of pixels \nResolution (number of pixels): width x height","x":-622,"y":-301,"width":297,"height":101},
+		{"id":"68143d9966b32aa8","type":"text","text":"## Color","x":-193,"y":-373,"width":250,"height":60},
+		{"id":"fa27505b9e09f0c0","type":"file","file":"notes/Pasted image 20250121104110.png","x":-193,"y":-280,"width":250,"height":58},
+		{"id":"6ea4b43c01e0f3b3","type":"text","text":"represented in values between 0 and 1","x":-193,"y":-200,"width":352,"height":60},
+		{"id":"a5e64a8ed936a99b","type":"file","file":"notes/Pasted image 20250121104145.png","x":-193,"y":-100,"width":273,"height":339},
+		{"id":"efccf18a07d2ed22","type":"link","url":"https://lh7-rt.googleusercontent.com/docsz/AD_4nXcce-JiisVKRHGDtQbCqqCuSHJelrxbaE8OdtMUadmi-y_9N8_024_h07ctSFJ8RKwpHYOwf-2ZZMPPGvtVacQBBDhpmLoLP3gpXf-zoHD7Rg8zv_ksmconVd21zANH_6nJ7w9cAg?key=QivfTAedDIBM2nct5f1-S-_9","x":140,"y":-100,"width":400,"height":400},
+		{"id":"971f879a7d277520","type":"file","file":"notes/Pasted image 20250121104214.png","x":185,"y":-398,"width":341,"height":228},
+		{"id":"b9c342c09e27877e","type":"file","file":"notes/Pasted image 20250121104233.png","x":600,"y":-391,"width":400,"height":214},
+		{"id":"80878ffaebe5fe45","type":"link","url":"https://lh7-rt.googleusercontent.com/docsz/AD_4nXd86tAkcruU-7bViWJkO2DjjZjHC3aWi0OVq3M49XR8fzRD82Bd7qFInJg7TLe7wXdXW3XoCPwjJjD7WVQgIrh467KrqRR9UgYSwZeAXNl19OCYNnNt5-NrEBRKQfAi3svmhhcjgQ?key=QivfTAedDIBM2nct5f1-S-_9","x":600,"y":-100,"width":400,"height":400},
+		{"id":"97113ffc8830f5db","type":"link","url":"https://lh7-rt.googleusercontent.com/docsz/AD_4nXcVLwiMLdEciAan1UiaqGosP3JO7XxOGITKM5Ts_J4Ud4RxeN9u-Ax3-m0vDclF_XNlDkYisMpemD_tj7DcKM-_8Vh1d04KPukdA4_PcUowYD9SI8uRpu3u4LA8C58cckfyoId9?key=QivfTAedDIBM2nct5f1-S-_9","x":1080,"y":-398,"width":400,"height":400},
+		{"id":"9c09c1ca62bbaa4a","type":"file","file":"notes/Pasted image 20250121104338.png","x":1080,"y":100,"width":400,"height":214},
+		{"id":"2dabfdd8ae1ccba8","type":"file","file":"notes/Pasted image 20250121104346.png","x":1560,"y":-391,"width":400,"height":122},
+		{"id":"e8e6e055f492e7fc","type":"text","text":"Error dithering : to keep the average error as low as possible by looking at neighboring pixels (minimizing quantization artifacts)","x":1560,"y":-222,"width":365,"height":160},
+		{"id":"2df73d44bc2b8f19","type":"text","text":"HDR file format","x":1560,"y":-50,"width":197,"height":52},
+		{"id":"958556b7a488fc0d","type":"file","file":"notes/Pasted image 20250121104421.png","x":1557,"y":93,"width":400,"height":221},
+		{"id":"49722e1e0294e843","type":"link","url":"https://lh7-rt.googleusercontent.com/docsz/AD_4nXc9CmarpjuE0-ScFkNw9gZd1x6EDr1TqgErPWU_rZvpz07XpXP-2YPtGZIxhPc8lMPpCx1HpZX6lVZyw0DeuxSbECvYyncMixl4IODpwdn65U5j3-mXBM8b_zZpZGQKxRGTmSJLyg?key=QivfTAedDIBM2nct5f1-S-_9","x":2080,"y":-391,"width":400,"height":400},
+		{"id":"ed196b81dab954be","type":"text","text":"A pixel right above and below each other in scanline can be far away in memory and that's bad because for a lot of graphics algorithms if we’re accessing a pixel we probably going to access its horizontal neighbor and vertical neighbor as well so it makes sense to pull them close by in memory so we get much better cache efficiency and so forth\n\nGpu typically stores image in a swizzled order since its a lot more efficient for a lot of graphics algorithms","x":2080,"y":-680,"width":602,"height":217},
+		{"id":"b8bf059841e9ffd2","type":"text","text":"## Gamma","x":2880,"y":-428,"width":250,"height":60},
+		{"id":"2d258f5d9e06f37b","type":"file","file":"notes/Pasted image 20250121104611.png","x":2880,"y":-321,"width":400,"height":271}
+	],
+	"edges":[]
+}
