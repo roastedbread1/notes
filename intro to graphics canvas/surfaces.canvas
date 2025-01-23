@@ -55,19 +55,19 @@
 		{"id":"c04cc5cc53260674","type":"file","file":"notes/images/Pasted image 20250122204117.png","x":11260,"y":706,"width":400,"height":291},
 		{"id":"e4c52ccd6fbf01aa","type":"text","text":"Gpu will compute the barycentric coordinate for the center of the fragments","x":11591,"y":495,"width":249,"height":113},
 		{"id":"a2237d7f8fe9d24b","type":"file","file":"notes/images/Pasted image 20250122204158.png","x":12080,"y":-234,"width":400,"height":329},
-		{"id":"8ede7db85c5a6f95","type":"file","file":"notes/images/Pasted image 20250122204209.png","x":12680,"y":-197,"width":400,"height":255},
+		{"id":"8ede7db85c5a6f95","type":"file","file":"notes/images/Pasted image 20250122204209.png","x":12680,"y":-197,"width":399,"height":255},
 		{"id":"d7647745ea738d27","type":"file","file":"notes/images/Pasted image 20250122204220.png","x":12240,"y":200,"width":400,"height":246},
 		{"id":"b39754db52d4e657","type":"text","text":"Redundant","x":12720,"y":240,"width":250,"height":60},
 		{"id":"3701bcf1d667fac1","type":"file","file":"notes/images/Pasted image 20250122204236.png","x":12200,"y":520,"width":400,"height":211},
-		{"id":"bed42d21b645c6c3","type":"file","file":"notes/images/Pasted image 20250122204251.png","x":12740,"y":557,"width":400,"height":174},
+		{"id":"bed42d21b645c6c3","type":"file","file":"notes/images/Pasted image 20250122204251.png","x":12740,"y":557,"width":399,"height":174},
 		{"id":"71da1b6514e5cf40","type":"text","text":"Order the vertex carefully to draw with triangle strip","x":12840,"y":398,"width":260,"height":96},
-		{"id":"e4910d2bb721c6b9","type":"file","file":"notes/images/Pasted image 20250122204311.png","x":13200,"y":600,"width":400,"height":51},
+		{"id":"e4910d2bb721c6b9","type":"file","file":"notes/images/Pasted image 20250122204311.png","x":13200,"y":600,"width":398,"height":51},
 		{"id":"3c26e13d2fbde048","type":"file","file":"notes/images/Pasted image 20250122204320.png","x":12900,"y":800,"width":400,"height":134},
 		{"id":"7b655408aa239fab","type":"file","file":"notes/images/Pasted image 20250122204334.png","x":13580,"y":58,"width":400,"height":263},
 		{"id":"1cf33d19dc4004dd","type":"file","file":"notes/images/Pasted image 20250122204349.png","x":14100,"y":90,"width":400,"height":231},
 		{"id":"ec5533265b07836e","type":"file","file":"notes/images/Pasted image 20250122204358.png","x":14580,"y":153,"width":400,"height":74},
 		{"id":"bcbc7eac81cbe51d","type":"file","file":"notes/images/Pasted image 20250122204407.png","x":14580,"y":251,"width":400,"height":70},
-		{"id":"372d20c53e6ea66a","x":15051,"y":246,"width":289,"height":75,"type":"text","text":"The most efficient is using elements with triangle strip"}
+		{"id":"372d20c53e6ea66a","type":"text","text":"The most efficient is using elements with triangle strip","x":15051,"y":246,"width":289,"height":75}
 	],
 	"edges":[
 		{"id":"17ee200dfed82e4f","fromNode":"eed075ebb0e98db7","fromSide":"bottom","toNode":"f921e41d35a4eb7d","toSide":"top"},
